@@ -21,6 +21,10 @@
   <a href="mailto:furqanzubair209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=furqanzubair209-cell&label=PROFILE%20VIEWS&color=00C7B7&style=for-the-badge" alt="Profile Views" />
+</p>
+
 I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGPA: 3.50/4.00), with hands-on experience in AI/ML, full-stack web development, and workflow automation. I enjoy building practical, user-focused software with clean, maintainable architecture.
 
 - 🎓 BS Computer Science, The Superior University — 2024–2028 (Expected)
@@ -66,6 +70,48 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furqanzubair209-cell/furqanzubair209-cell/output/github-contribution-grid-snake.svg">
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/furqanzubair209-cell/furqanzubair209-cell/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=furqanzubair209-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img
+    width="100%."
+    src="https://github-readme-activity-graph.vercel.app/graph?username=furqanzubair209-cell&theme=react-dark&bg_color=0d1117&color=38bdf8&line=22d3ee&point=e2e8f0&area=true&hide_border=true"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 📊 Deep GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furqanzubair209-cell&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furqanzubair209-cell&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furqanzubair209-cell&theme=github_dark" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furqanzubair209-cell&theme=github_dark&utcOffset=5" alt="Commits by Hour" />
+</p>
+
+---
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -165,3 +211,9 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
 </p>
 
 I'm open to internship opportunities, project collaborations, and technical discussions. Feel free to connect! 🚀
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00C7B7&height=100&section=footer" />
