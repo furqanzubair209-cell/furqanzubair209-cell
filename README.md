@@ -82,18 +82,6 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img
-    width="100%."
-    src="https://github-readme-activity-graph.vercel.app/graph?username=furqanzubair209-cell&theme=react-dark&bg_color=0d1117&color=38bdf8&line=22d3ee&point=e2e8f0&area=true&hide_border=true"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
-
 ## 📊 Deep GitHub Insights
 
 <p align="center">
