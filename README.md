@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0A66C2&height=220&section=header&text=Muhammad%20Furqan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Software%20Engineer%20%7C%20AI%2FML%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
 <p align="center">
   <img src="https://github.com/furqanzubair209-cell.png" width="150" style="border-radius: 50%;" alt="Muhammad Furqan" />
 </p>
@@ -17,10 +15,6 @@
   <a href="https://www.upwork.com/freelancers/~016a10d73534b30cfe" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
   <a href="https://www.fiverr.com/furqan191005" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
   <a href="mailto:furqanzubair209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furqanzubair209-cell&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGPA: 3.50/4.00), with hands-on experience in AI/ML, full-stack web development, and workflow automation. I enjoy building practical, user-focused software with clean, maintainable architecture.
@@ -43,28 +37,24 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
 
 **AI/ML:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-1560BD?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Automation & Tools:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Automation & Tools:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furqanzubair209-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=furqanzubair209-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=furqanzubair209-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=furqanzubair209-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqanzubair209-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furqanzubair209-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=furqanzubair209-cell&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furqanzubair209-cell&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -72,10 +62,6 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furqanzubair209-cell/furqanzubair209-cell/output/github-contribution-grid-snake.svg">
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/furqanzubair209-cell/furqanzubair209-cell/output/github-contribution-grid-snake-dark.svg">
   </picture>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/furqanzubair209-cell/furqanzubair209-cell/main/metrics.svg" alt="Metrics Dashboard" />
 </p>
 
 ---
@@ -175,5 +161,3 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
 </p>
 
 I'm open to internship opportunities, project collaborations, and technical discussions. Feel free to connect! 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C7B7&height=100&section=footer" width="100%"/>
