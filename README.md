@@ -50,12 +50,12 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=furqanzubair209-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=furqanzubair209-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furqanzubair209-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=furqanzubair209-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furqanzubair209-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqanzubair209-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -77,8 +77,6 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/furqanzubair209-cell/furqanzubair209-cell/main/metrics.svg" alt="Metrics Dashboard" />
 </p>
-
-> ⚠️ The snake and metrics images above need `snake.yml` and `metrics.yml` (provided separately) added to `.github/workflows/` and run once — see **SETUP.md**.
 
 ---
 
