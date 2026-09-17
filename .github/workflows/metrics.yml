@@ -2,27 +2,34 @@ name: Generate Metrics Dashboard
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # once a day
-  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - name: Generate metrics.svg
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           user: furqanzubair209-cell
           template: classic
-          base: "header, activity, community, repositories, metadata"
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Karachi
+          config_display: large
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
-          plugin_habits: yes
-          plugin_habits_charts_type: bars
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage, bytes-size
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
