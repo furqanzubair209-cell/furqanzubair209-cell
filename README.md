@@ -1,8 +1,12 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/furqanzubair209-cell/furqanzubair209-cell/main/banner.svg" width="100%" alt="Muhammad Furqan banner" />
+</p>
+
+<p align="center">
   <img src="https://github.com/furqanzubair209-cell.png" width="150" style="border-radius: 50%;" alt="Muhammad Furqan" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
+<h3 align="center">Hi 👋, welcome to my profile</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI%2FML+Developer;Full-Stack+Software+Engineer;Open+to+Internships+%26+Freelance+Projects" alt="Typing SVG" />
