@@ -24,49 +24,97 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furqanzubair209-cell&label=PROFILE%20VIEWS&color=00C7B7&style=for-the-badge" alt="Profile Views" />
 </p>
-## 👨‍💻 About Me
 
-<p align="center">
-  <b>Computer Science Undergraduate • AI/ML Enthusiast • Full-Stack Developer</b>
-</p><table align="center">
+<br>
+
+## 🧑‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/aambrozkiewicz/aambrozkiewicz/master/gifs/code.gif" width="280" />
+
+- 🎓 I'm currently pursuing a **BS in Computer Science** at The Superior University, Lahore *(2024 – 2028)*
+- 🤖 I'm deeply passionate about **AI/ML**, **Full-Stack Development**, and **Automation**
+- 🌱 Currently leveling up in **NLP, Deep Learning, and Cloud technologies**
+- 💼 Actively working as a **Freelance Software Engineer** on Upwork & Fiverr, plus interning in Frontend AI Engineering
+- ⚡ I love building things that think — from ML pipelines to intelligent agents to slick, responsive UIs
+- 🎯 Open to **internships, freelance projects, and collaborations** — let's build something great together!
+- 📫 Reach me at **furqanzubair209@gmail.com**
+
+<table align="center">
 <tr>
-<td>🎓 <b>Education</b></td>
-<td>BS Computer Science — The Superior University</td>
+<td align="center">🎓<br><b>Education</b></td>
+<td align="center">💼<br><b>CGPA</b></td>
+<td align="center">🚀<br><b>Focus</b></td>
+<td align="center">🌱<br><b>Learning</b></td>
+<td align="center">🤝<br><b>Open To</b></td>
 </tr>
 <tr>
-<td>📅 <b>Journey</b></td>
-<td>2024 – 2028</td>
+<td align="center">BS Computer Science</td>
+<td align="center">3.50 / 4.00</td>
+<td align="center">AI/ML • Full-Stack • Automation</td>
+<td align="center">NLP • Deep Learning • Cloud</td>
+<td align="center">Internships • Freelance • Collab</td>
 </tr>
-<tr>
-<td>⭐ <b>CGPA</b></td>
-<td>3.50 / 4.00</td>
-</tr>
-<tr>
-<td>🤖 <b>Focus</b></td>
-<td>AI/ML • Full-Stack • Automation</td>
-</tr>
-<tr>
-<td>🌱 <b>Learning</b></td>
-<td>NLP • Deep Learning • Cloud</td>
-</tr>
-<tr>
-<td>💼 <b>Open To</b></td>
-<td>Internships • Freelance • Collaboration</td>
-</tr>
-</table><p align="center">
-  I enjoy turning ideas into <b>practical, intelligent software</b> and continuously learning through building real-world projects.
-</p>
+</table>
+
+<br clear="right"/>
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
-**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+  <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+</p>
 
-**Backend & Databases:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
+  <b>Backend & Databases</b><br>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
 
-**AI/ML:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-1560BD?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+<p align="center">
+  <b>AI / ML</b><br>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/-XGBoost-1560BD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+</p>
 
-**Automation & Tools:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <b>Automation & Tools</b><br>
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
 
 ---
 
