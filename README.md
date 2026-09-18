@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furqanzubair209-cell&label=PROFILE%20VIEWS&color=00C7B7&style=for-the-badge" alt="Profile Views" />
 </p>
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 <p align="center">
   <b>Computer Science Undergraduate • AI/ML Enthusiast • Full-Stack Developer</b>
