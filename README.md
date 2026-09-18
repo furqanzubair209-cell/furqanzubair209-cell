@@ -27,19 +27,47 @@
 ---
 👨‍💻 About Me
 
-I'm Muhammad Furqan, a Computer Science undergraduate at The Superior University, Lahore, passionate about building AI-powered applications, full-stack web solutions, and intelligent automation systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Real+Software;Exploring+AI+%7C+ML+%7C+Automation;Learning+Today+%7C+Building+Tomorrow" alt="About Me Typing" />
+</p><table align="center">
+<tr>
+<td width="50%" valign="top">🎓 Who I Am
 
-I enjoy transforming ideas into practical software by combining software engineering, artificial intelligence, and problem-solving. I'm continuously exploring new technologies and challenging myself to build projects that are useful, scalable, and impactful.
+I'm Muhammad Furqan, a Computer Science undergraduate at The Superior University, Lahore.
 
-- 🎓 BS Computer Science — The Superior University, Lahore
-- 🤖 Focused on AI/ML, Generative AI, NLP & Computer Vision
-- 🌐 Building with Full-Stack Web Technologies
-- ⚙️ Exploring Automation & AI-powered Workflows
-- 🌱 Currently learning Deep Learning, Advanced NLP & Cloud Deployment
-- 💡 Passionate about learning, building, and solving real-world problems
-- 🤝 Open to Internships, Freelance Projects & Collaboration
+I love turning ideas into practical software and exploring how technology can solve real-world problems.
 
-«“Learn. Build. Improve. Repeat.” 🚀»
+📚 BS Computer Science
+🏫 The Superior University, Lahore
+📅 2024 – 2028
+⭐ CGPA: 3.50 / 4.00
+
+</td><td width="50%" valign="top">🚀 What I Build
+
+🤖 AI / Machine Learning
+🌐 Full-Stack Applications
+⚙️ Automation Workflows
+🧠 Intelligent Systems
+📊 Data-Driven Solutions
+🔧 Practical Software Projects
+
+</td>
+</tr>
+</table><p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Building-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Learning-00C7B7?style=for-the-badge" />
+</p>🌱 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-8E75B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative%20AI-00C7B7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-007ACC?style=flat-square" />
+</p><p align="center">
+  <b>💡 Learn → Build → Experiment → Improve → Repeat 🚀</b>
+</p>
 ## 🛠️ Tech Stack
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
