@@ -117,7 +117,7 @@ I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGP
 | 7 | **Aether Weather App** | Weather app with dynamic themes, animated SVG icons, forecasts, and smart caching. | HTML5, CSS3, JavaScript, OpenWeatherMap API | [GitHub](https://github.com/furqanzubair209-cell/weather-app) • [Live Demo](https://furqanweatherapp.netlify.app/) |
 | 8 | **Modern Web-Based Music Player** | Music player with playlist controls, sleep timer, and Web Audio API-based visualization. | HTML5, CSS3, JavaScript | [GitHub](https://github.com/furqanzubair209-cell/CodeAlpha_Music-Player/tree/main/Furqan_Music_Player) • [Live Demo](https://furqanmusicplayer.netlify.app/) |
 | 9 | **Goal-Based Soccer Agent** | AI agent that perceives the ball and goal, plans movement, and scores using goal-based planning. | Python, PEAS, AI Search | [GitHub](https://github.com/furqanzubair209-cell/Soccer-Goal-Based-Agent) |
-| 10 | **Personal Portfolio Website (Upgraded)** | Responsive portfolio showcasing education, skills, projects, and internship experience. | HTML5, CSS3, JavaScript | [GitHub](https://github.com/furqanzubair209-cell/CodeAlpha_PortfolioWebsite/tree/main/Portfolio%20Website) • [Live Demo](https://furqannewportfolio.netlify.app/) |
+| 10 | **Personal Portfolio Website (Upgraded)** | Responsive portfolio showcasing education, skills, projects, and internship experience. | React 19, Typescript, Vite, Tailwind CSS 4, Farmer Motion | [GitHub](https://github.com/furqanzubair209-cell/CodeAlpha_PortfolioWebsite/tree/main/Portfolio%20Website) • [Live Demo](https://furqannewportfolio.netlify.app/) |
 
 📌 **See more projects** on my [GitHub](https://github.com/furqanzubair209-cell) and [LinkedIn](https://www.linkedin.com/in/muhammad-furqan-228807304/)
 
