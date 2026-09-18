@@ -121,12 +121,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=furqanzubair209-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=furqanzubair209-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=furqanzubair209-cell&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=furqanzubair209-cell&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furqanzubair209-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furqanzubair209-cell&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -146,7 +146,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=furqanzubair209-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=furqanzubair209-cell&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -154,13 +154,13 @@
 ## 📊 Deep GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furqanzubair209-cell&theme=github_dark" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furqanzubair209-cell&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furqanzubair209-cell&theme=dracula" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furqanzubair209-cell&theme=dracula" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furqanzubair209-cell&theme=github_dark" alt="GitHub Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furqanzubair209-cell&theme=github_dark&utcOffset=5" alt="Commits by Hour" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furqanzubair209-cell&theme=dracula" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furqanzubair209-cell&theme=dracula&utcOffset=5" alt="Commits by Hour" />
 </p>
 
 ---
@@ -186,7 +186,7 @@
 | 7 | **Aether Weather App** | Weather app with dynamic themes, animated SVG icons, forecasts, and smart caching. | HTML5, CSS3, JavaScript, OpenWeatherMap API | [GitHub](https://github.com/furqanzubair209-cell/weather-app) • [Live Demo](https://furqanweatherapp.netlify.app/) |
 | 8 | **Modern Web-Based Music Player** | Music player with playlist controls, sleep timer, and Web Audio API-based visualization. | HTML5, CSS3, JavaScript | [GitHub](https://github.com/furqanzubair209-cell/CodeAlpha_Music-Player/tree/main/Furqan_Music_Player) • [Live Demo](https://furqanmusicplayer.netlify.app/) |
 | 9 | **Goal-Based Soccer Agent** | AI agent that perceives the ball and goal, plans movement, and scores using goal-based planning. | Python, PEAS, AI Search | [GitHub](https://github.com/furqanzubair209-cell/Soccer-Goal-Based-Agent) |
-| 10 | **Personal Portfolio Website (Upgraded)** | Responsive portfolio showcasing education, skills, projects, and internship experience. | React 19, Typescript, Vite, Tailwind CSS 4, Farmer Motion | [GitHub](https://github.com/furqanzubair209-cell/Muhammad-Furqan-Portfolio ) • [Live Demo](https://furqannewportfolio.netlify.app/) |
+| 10 | **Personal Portfolio Website (Upgraded)** | Responsive portfolio showcasing education, skills, projects, and internship experience. | React 19, Typescript, Vite, Tailwind CSS 4, Framer Motion | [GitHub](https://github.com/furqanzubair209-cell/Muhammad-Furqan-Portfolio) • [Live Demo](https://furqannewportfolio.netlify.app/) |
 
 📌 **See more projects** on my [GitHub](https://github.com/furqanzubair209-cell) and [LinkedIn](https://www.linkedin.com/in/muhammad-furqan-228807304/)
 
@@ -270,7 +270,7 @@
 I'm open to internship opportunities, project collaborations, and technical discussions. Feel free to connect! 🚀
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00C7B7&height=100&section=footer" />
