@@ -24,17 +24,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furqanzubair209-cell&label=PROFILE%20VIEWS&color=00C7B7&style=for-the-badge" alt="Profile Views" />
 </p>
-
-I'm a Computer Science undergraduate at **The Superior University, Lahore** (CGPA: 3.50/4.00), with hands-on experience in AI/ML, full-stack web development, and workflow automation. I enjoy building practical, user-focused software with clean, maintainable architecture.
-
-- 🎓 BS Computer Science, The Superior University — 2024–2028 (Expected)
-- 🤖 Interested in AI/ML, full-stack engineering, and automation
-- 🌱 Currently learning advanced NLP, deep learning, and cloud deployments
-- 💼 Open to internships, freelance projects, and collaboration
-- 📫 Reach me at **furqanzubair209@gmail.com**
-
 ---
+👨‍💻 About Me
 
+I'm Muhammad Furqan, a Computer Science undergraduate at The Superior University, Lahore, passionate about building AI-powered applications, full-stack web solutions, and intelligent automation systems.
+
+I enjoy transforming ideas into practical software by combining software engineering, artificial intelligence, and problem-solving. I'm continuously exploring new technologies and challenging myself to build projects that are useful, scalable, and impactful.
+
+- 🎓 BS Computer Science — The Superior University, Lahore
+- 🤖 Focused on AI/ML, Generative AI, NLP & Computer Vision
+- 🌐 Building with Full-Stack Web Technologies
+- ⚙️ Exploring Automation & AI-powered Workflows
+- 🌱 Currently learning Deep Learning, Advanced NLP & Cloud Deployment
+- 💡 Passionate about learning, building, and solving real-world problems
+- 🤝 Open to Internships, Freelance Projects & Collaboration
+
+«“Learn. Build. Improve. Repeat.” 🚀»
 ## 🛠️ Tech Stack
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
