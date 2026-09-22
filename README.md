@@ -29,34 +29,35 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/aambrozkiewicz/aambrozkiewicz/master/gifs/code.gif" width="280" />
+```yaml
+name: Muhammad Furqan
+role: Frontend Software Engineer | AI/ML & Full-Stack Developer
+location: Lahore, Pakistan
 
-- 🎓 I'm currently pursuing a **BS in Computer Science** at The Superior University, Lahore *(2024 – 2028)*
-- 🤖 I'm deeply passionate about **AI/ML**, **Full-Stack Development**, and **Automation**
-- 🌱 Currently leveling up in **NLP, Deep Learning, and Cloud technologies**
-- 💼 Actively working as a **Freelance Software Engineer** on Upwork & Fiverr, plus interning in Frontend AI Engineering
-- ⚡ I love building things that think — from ML pipelines to intelligent agents to slick, responsive UIs
-- 🎯 Open to **internships, freelance projects, and collaborations** — let's build something great together!
-- 📫 Reach me at **furqanzubair209@gmail.com**
+what_i_do:
+  - Build responsive, production-ready frontend interfaces
+  - Develop AI/ML pipelines, intelligent agents & automation workflows
+  - Ship full-stack apps across React, Node.js, and MySQL/Prisma
 
-<table align="center">
-<tr>
-<td align="center">🎓<br><b>Education</b></td>
-<td align="center">💼<br><b>CGPA</b></td>
-<td align="center">🚀<br><b>Focus</b></td>
-<td align="center">🌱<br><b>Learning</b></td>
-<td align="center">🤝<br><b>Open To</b></td>
-</tr>
-<tr>
-<td align="center">BS Computer Science</td>
-<td align="center">3.50 / 4.00</td>
-<td align="center">AI/ML • Full-Stack • Automation</td>
-<td align="center">NLP • Deep Learning • Cloud</td>
-<td align="center">Internships • Freelance • Collab</td>
-</tr>
-</table>
+currently:
+  - 🎓 Pursuing BS Computer Science at The Superior University, Lahore (2024–2028) · CGPA 3.50/4.00
+  - 🧠 Frontend AI Engineer Intern @ FlyRank AI
+  - 💼 Freelance Software Engineer on Upwork & Fiverr
+  - 🌱 Leveling up in NLP, Deep Learning & Cloud technologies
 
-<br clear="right"/>
+passionate_about:
+  - 🤖 AI/ML & intelligent agents
+  - 🖥️ Full-stack & frontend engineering
+  - ⚙️ Workflow automation (n8n)
+  - 🧩 Building things that think
+
+open_to:
+  - Internships & freelance software engineering projects
+  - Full-stack / Frontend / AI-ML collaborations
+  - Technical discussions & mentorship
+```
+
+📫 Reach me at **furqanzubair209@gmail.com**
 
 ---
 
@@ -114,6 +115,33 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/furqanzubair209-cell/furqanresumeanalyzer">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=furqanzubair209-cell&repo=furqanresumeanalyzer&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/furqanzubair209-cell/furqanstore-mern">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=furqanzubair209-cell&repo=furqanstore-mern&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/furqanzubair209-cell/codeforge">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=furqanzubair209-cell&repo=codeforge&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/furqanzubair209-cell/AI-Face-Mask-Detection">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=furqanzubair209-cell&repo=AI-Face-Mask-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/furqanzubair209-cell/Student-Performance-Prediction">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=furqanzubair209-cell&repo=Student-Performance-Prediction&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/furqanzubair209-cell/Student-Fee-Management-System">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=furqanzubair209-cell&repo=Student-Fee-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
 </p>
 
 ---
