@@ -195,7 +195,7 @@ open_to:
 ## 📉 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furqanzubair209-cell&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Furqan%27s%20Contribution%20Graph" alt="Contribution Activity Graph" width="100%" />
+  <img src="./activity-graph/activity-graph.svg" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 ---
