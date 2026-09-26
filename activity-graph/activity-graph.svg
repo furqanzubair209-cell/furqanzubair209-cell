@@ -11,19 +11,19 @@
 <text x="42" y="112.8" text-anchor="end" font-size="11" fill="#38bdae">30</text>
 <line x1="50" y1="60.0" x2="870" y2="60.0" stroke="#2a2b3d"/>
 <text x="42" y="64.0" text-anchor="end" font-size="11" fill="#38bdae">40</text>
-<text x="50.0" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Aug 23</text>
-<text x="155.8" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Aug 27</text>
-<text x="261.6" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Aug 31</text>
-<text x="367.4" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 4</text>
-<text x="473.2" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 8</text>
-<text x="579.0" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 12</text>
-<text x="684.8" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 16</text>
-<text x="790.6" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 20</text>
-<polygon points="50,255 50.0,255.0 76.5,255.0 102.9,240.4 129.4,255.0 155.8,255.0 182.3,255.0 208.7,255.0 235.2,255.0 261.6,255.0 288.1,255.0 314.5,255.0 341.0,255.0 367.4,255.0 393.9,181.9 420.3,255.0 446.8,255.0 473.2,255.0 499.7,255.0 526.1,255.0 552.6,255.0 579.0,196.5 605.5,235.5 631.9,255.0 658.4,255.0 684.8,255.0 711.3,181.9 737.7,206.2 764.2,216.0 790.6,69.8 817.1,225.8 843.5,220.9 870.0,250.1 870,255" fill="#70a5fd" fill-opacity="0.18"/>
-<polyline points="50.0,255.0 76.5,255.0 102.9,240.4 129.4,255.0 155.8,255.0 182.3,255.0 208.7,255.0 235.2,255.0 261.6,255.0 288.1,255.0 314.5,255.0 341.0,255.0 367.4,255.0 393.9,181.9 420.3,255.0 446.8,255.0 473.2,255.0 499.7,255.0 526.1,255.0 552.6,255.0 579.0,196.5 605.5,235.5 631.9,255.0 658.4,255.0 684.8,255.0 711.3,181.9 737.7,206.2 764.2,216.0 790.6,69.8 817.1,225.8 843.5,220.9 870.0,250.1" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="50.0" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Aug 26</text>
+<text x="155.8" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Aug 30</text>
+<text x="261.6" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 3</text>
+<text x="367.4" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 7</text>
+<text x="473.2" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 11</text>
+<text x="579.0" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 15</text>
+<text x="684.8" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 19</text>
+<text x="790.6" y="282" text-anchor="middle" font-size="11" fill="#38bdae">Sep 23</text>
+<polygon points="50,255 50.0,255.0 76.5,255.0 102.9,255.0 129.4,255.0 155.8,255.0 182.3,255.0 208.7,255.0 235.2,255.0 261.6,255.0 288.1,255.0 314.5,181.9 341.0,255.0 367.4,255.0 393.9,255.0 420.3,255.0 446.8,255.0 473.2,255.0 499.7,196.5 526.1,235.5 552.6,255.0 579.0,255.0 605.5,255.0 631.9,181.9 658.4,206.2 684.8,216.0 711.3,69.8 737.7,225.8 764.2,220.9 790.6,250.1 817.1,220.9 843.5,196.5 870.0,255.0 870,255" fill="#70a5fd" fill-opacity="0.18"/>
+<polyline points="50.0,255.0 76.5,255.0 102.9,255.0 129.4,255.0 155.8,255.0 182.3,255.0 208.7,255.0 235.2,255.0 261.6,255.0 288.1,255.0 314.5,181.9 341.0,255.0 367.4,255.0 393.9,255.0 420.3,255.0 446.8,255.0 473.2,255.0 499.7,196.5 526.1,235.5 552.6,255.0 579.0,255.0 605.5,255.0 631.9,181.9 658.4,206.2 684.8,216.0 711.3,69.8 737.7,225.8 764.2,220.9 790.6,250.1 817.1,220.9 843.5,196.5 870.0,255.0" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="50.0" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="76.5" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="102.9" cy="240.4" r="3.2" fill="#70a5fd"/>
+<circle cx="102.9" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="129.4" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="155.8" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="182.3" cy="255.0" r="3.2" fill="#70a5fd"/>
@@ -31,26 +31,26 @@
 <circle cx="235.2" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="261.6" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="288.1" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="314.5" cy="255.0" r="3.2" fill="#70a5fd"/>
+<circle cx="314.5" cy="181.9" r="3.2" fill="#70a5fd"/>
 <circle cx="341.0" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="367.4" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="393.9" cy="181.9" r="3.2" fill="#70a5fd"/>
+<circle cx="393.9" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="420.3" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="446.8" cy="255.0" r="3.2" fill="#70a5fd"/>
 <circle cx="473.2" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="499.7" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="526.1" cy="255.0" r="3.2" fill="#70a5fd"/>
+<circle cx="499.7" cy="196.5" r="3.2" fill="#70a5fd"/>
+<circle cx="526.1" cy="235.5" r="3.2" fill="#70a5fd"/>
 <circle cx="552.6" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="579.0" cy="196.5" r="3.2" fill="#70a5fd"/>
-<circle cx="605.5" cy="235.5" r="3.2" fill="#70a5fd"/>
-<circle cx="631.9" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="658.4" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="684.8" cy="255.0" r="3.2" fill="#70a5fd"/>
-<circle cx="711.3" cy="181.9" r="3.2" fill="#70a5fd"/>
-<circle cx="737.7" cy="206.2" r="3.2" fill="#70a5fd"/>
-<circle cx="764.2" cy="216.0" r="3.2" fill="#70a5fd"/>
-<circle cx="790.6" cy="69.8" r="3.2" fill="#70a5fd"/>
-<circle cx="817.1" cy="225.8" r="3.2" fill="#70a5fd"/>
-<circle cx="843.5" cy="220.9" r="3.2" fill="#70a5fd"/>
-<circle cx="870.0" cy="250.1" r="3.2" fill="#70a5fd"/>
+<circle cx="579.0" cy="255.0" r="3.2" fill="#70a5fd"/>
+<circle cx="605.5" cy="255.0" r="3.2" fill="#70a5fd"/>
+<circle cx="631.9" cy="181.9" r="3.2" fill="#70a5fd"/>
+<circle cx="658.4" cy="206.2" r="3.2" fill="#70a5fd"/>
+<circle cx="684.8" cy="216.0" r="3.2" fill="#70a5fd"/>
+<circle cx="711.3" cy="69.8" r="3.2" fill="#70a5fd"/>
+<circle cx="737.7" cy="225.8" r="3.2" fill="#70a5fd"/>
+<circle cx="764.2" cy="220.9" r="3.2" fill="#70a5fd"/>
+<circle cx="790.6" cy="250.1" r="3.2" fill="#70a5fd"/>
+<circle cx="817.1" cy="220.9" r="3.2" fill="#70a5fd"/>
+<circle cx="843.5" cy="196.5" r="3.2" fill="#70a5fd"/>
+<circle cx="870.0" cy="255.0" r="3.2" fill="#70a5fd"/>
 </svg>
